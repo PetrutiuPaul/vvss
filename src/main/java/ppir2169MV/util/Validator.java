@@ -33,7 +33,7 @@ public class Validator {
 	}
 	
 	public static boolean isNumber(String s){
-		return s.matches("[0-9]+");
+		return s.matches("[1-9][0-9]*");
 	}
 	
 	public static boolean isOKString(String s){

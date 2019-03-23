@@ -38,10 +38,10 @@ public class Consola {
 					afiseazaToateCartile();
 					break;
 			}
-		
-			printMenu();
+
 			String line;
 			do{
+				printMenu();
 				System.out.println("Introduceti un nr:");
 				line=console.readLine();
 			}while(!line.matches("[0-4]"));
@@ -71,13 +71,13 @@ public class Consola {
 			do{
 				System.out.println("An aparitie:");
 				line=console.readLine();
-			}while(!line.matches("[10-9]+"));
+			}while(!line.matches("[1-9][0-9]*"));
 			c.setAnAparitie(line);
 			
 			do{
 				System.out.println("Nr. de referent:");
 				line=console.readLine();
-			}while(!line.matches("[1-9]+"));
+			}while(!line.matches("[1-9][0-9]*"));
 			int nrReferenti= Integer.parseInt(line);
 			for(int i=1;i<=nrReferenti;i++){
 				System.out.println("Autor "+i+": ");
@@ -87,7 +87,7 @@ public class Consola {
 			do{
 				System.out.println("Nr. de cuvinte cheie:");
 				line=console.readLine();
-			}while(!line.matches("[1-9]+"));
+			}while(!line.matches("[1-9][0-9]*"));
 			int nrCuv= Integer.parseInt(line);
 			for(int i=1;i<=nrCuv;i++){
 				System.out.println("Cuvant "+i+": ");
@@ -120,9 +120,6 @@ public class Consola {
 			for(Carte c:bc.cautaCarte(console.readLine())){
 				System.out.println(c);
 			}
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -136,7 +133,7 @@ public class Consola {
 			do{
 				System.out.println("An aparitie:");
 				line=console.readLine();
-			}while(!line.matches("[10-9]+"));
+			}while(!line.matches("[1-9][0-9]*"));
 			for(Carte c:bc.getCartiOrdonateDinAnul(line)){
 				System.out.println(c);
 			}
