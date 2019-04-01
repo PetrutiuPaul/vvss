@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="34530d1d-9266-43e5-8fd2-09059fb0263d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsBiblioteca/DiagramBiblioteca_v1.0.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DocsBiblioteca/DiagramBiblioteca_v1.0.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsBiblioteca/Lab02_BBT_TCs_Form.xls" beforeDir="false" afterPath="$PROJECT_DIR$/DocsBiblioteca/Lab02_BBT_TCs_Form.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,26 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/App.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/begin/Start.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="156">
+              <caret line="62" column="46" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,14 +35,219 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/util/Validator.java">
+        <entry file="uml://JAVA/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement />
+              <nodes>
+                <node x="311.0" y="348.201171875">com</node>
+                <node x="336.0" y="274.201171875">images</node>
+                <node x="0.0" y="274.201171875">netscape</node>
+                <node x="0.0" y="422.201171875">junit</node>
+                <node x="0.0" y="496.201171875">org</node>
+                <node x="0.0" y="200.201171875">ppir2169MV</node>
+                <node x="189.0" y="200.201171875">templates</node>
+                <node x="0.0" y="126.201171875">toolbarButtonGraphics</node>
+                <node x="142.0" y="496.201171875">sun</node>
+                <node x="283.0" y="496.201171875">jdk</node>
+                <node x="366.0" y="200.201171875">META-INF</node>
+                <node x="171.0" y="274.201171875">licenses</node>
+                <node x="244.0" y="126.201171875">groovyjarjarasm</node>
+                <node x="147.0" y="422.201171875">java</node>
+                <node x="0.0" y="348.201171875">groovy</node>
+                <node x="160.0" y="348.201171875">javax</node>
+                <node x="292.0" y="422.201171875">edu</node>
+                <node x="282.0" y="13.451171875">groovyjarjarcommonscli</node>
+                <node x="40.0" y="6.201171875">groovyjarjarantlr</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+                  <point x="-55.666666666666664" y="14.5" />
+                  <point x="67.83333333333334" y="55.201171875" />
+                  <point x="20.0" y="55.201171875" />
+                  <point x="20.0" y="30.367838541666664" />
+                  <point x="-83.5" y="9.666666666666666" />
+                </edge>
+                <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+                  <point x="51.75" y="14.5" />
+                  <point x="437.25" y="72.451171875" />
+                  <point x="252.0" y="72.451171875" />
+                  <point x="252.0" y="20.701171875" />
+                  <point x="-103.5" y="-7.25" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="-47.0" y="149.0" />
+              <SelectedNodes />
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/ppir2169MV.begin.Start">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>ppir2169MV.begin.Start</OriginalElement>
+              <nodes>
+                <node x="514.125" y="621.0">ppir2169MV.repository.repo.CartiRepo</node>
+                <node x="256.25" y="1158.0">ppir2169MV.begin.Start</node>
+                <node x="350.125" y="409.0">ppir2169MV.repository.repoInterfaces.CartiRepoInterface</node>
+                <node x="120.125" y="431.5">ppir2169MV.util.Validator</node>
+                <node x="210.47519841269838" y="0.0">ppir2169MV.model.Carte</node>
+                <node x="841.125" y="632.5">ppir2169MV.repository.repoMock.CartiRepoMock</node>
+                <node x="0.0" y="879.0">ppir2169MV.view.Consola</node>
+                <node x="103.91666666666669" y="621.0">ppir2169MV.control.BibliotecaCtrl</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+                  <point x="115.125" y="-104.0" />
+                  <point x="372.5416666666667" y="601.0" />
+                  <point x="442.225" y="601.0" />
+                  <point x="-61.39999999999998" y="81.0" />
+                </edge>
+                <edge source="ppir2169MV.view.Consola" target="ppir2169MV.model.Carte">
+                  <point x="-32.875" y="-114.5" />
+                  <point x="98.625" y="854.0" />
+                  <point x="79.35416666666669" y="854.0" />
+                  <point x="79.35416666666669" y="369.0" />
+                  <point x="269.5376984126984" y="369.0" />
+                  <point x="-98.4375" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.util.Validator">
+                  <point x="-38.375" y="-104.0" />
+                  <point x="219.04166666666669" y="601.0" />
+                  <point x="225.125" y="601.0" />
+                  <point x="0.0" y="58.5" />
+                </edge>
+                <edge source="ppir2169MV.repository.repo.CartiRepo" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+                  <point x="-76.75" y="-104.0" />
+                  <point x="590.875" y="601.0" />
+                  <point x="565.025" y="601.0" />
+                  <point x="61.39999999999998" y="81.0" />
+                </edge>
+                <edge source="ppir2169MV.repository.repoInterfaces.CartiRepoInterface" target="ppir2169MV.model.Carte">
+                  <point x="0.0" y="-81.0" />
+                  <point x="503.625" y="389.0" />
+                  <point x="387.6626984126984" y="389.0" />
+                  <point x="19.6875" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.begin.Start" target="ppir2169MV.view.Consola">
+                  <point x="-70.0" y="-25.5" />
+                  <point x="270.25" y="1138.0" />
+                  <point x="65.75" y="1138.0" />
+                  <point x="-65.75" y="114.5" />
+                </edge>
+                <edge source="ppir2169MV.begin.Start" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+                  <point x="42.0" y="-25.5" />
+                  <point x="382.25" y="1128.0" />
+                  <point x="503.625" y="1128.0" />
+                  <point x="0.0" y="81.0" />
+                </edge>
+                <edge source="ppir2169MV.repository.repoMock.CartiRepoMock" target="ppir2169MV.model.Carte">
+                  <point x="102.33333333333326" y="-92.5" />
+                  <point x="1096.9583333333333" y="601.0" />
+                  <point x="1038.5029761904761" y="601.0" />
+                  <point x="1038.5029761904761" y="359.0" />
+                  <point x="505.7876984126984" y="359.0" />
+                  <point x="137.8125" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.util.Validator" target="ppir2169MV.model.Carte">
+                  <point x="0.0" y="-58.5" />
+                  <point x="225.125" y="389.0" />
+                  <point x="348.2876984126984" y="389.0" />
+                  <point x="-19.6875" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.begin.Start" target="ppir2169MV.control.BibliotecaCtrl">
+                  <point x="14.0" y="-25.5" />
+                  <point x="354.25" y="1138.0" />
+                  <point x="345.75" y="1138.0" />
+                  <point x="345.75" y="854.0" />
+                  <point x="372.5416666666667" y="854.0" />
+                  <point x="115.125" y="104.0" />
+                </edge>
+                <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.model.Carte">
+                  <point x="-115.125" y="-104.0" />
+                  <point x="142.29166666666669" y="601.0" />
+                  <point x="109.625" y="601.0" />
+                  <point x="109.625" y="379.0" />
+                  <point x="308.9126984126984" y="379.0" />
+                  <point x="-59.0625" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.repository.repoMock.CartiRepoMock" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+                  <point x="-102.33333333333326" y="-92.5" />
+                  <point x="892.2916666666667" y="601.0" />
+                  <point x="626.425" y="601.0" />
+                  <point x="122.79999999999995" y="81.0" />
+                </edge>
+                <edge source="ppir2169MV.repository.repo.CartiRepo" target="ppir2169MV.model.Carte">
+                  <point x="76.75" y="-104.0" />
+                  <point x="744.375" y="379.0" />
+                  <point x="427.0376984126984" y="379.0" />
+                  <point x="59.0625" y="169.5" />
+                </edge>
+                <edge source="ppir2169MV.begin.Start" target="ppir2169MV.repository.repoMock.CartiRepoMock">
+                  <point x="70.0" y="-25.5" />
+                  <point x="410.25" y="1138.0" />
+                  <point x="994.625" y="1138.0" />
+                  <point x="0.0" y="92.5" />
+                </edge>
+                <edge source="ppir2169MV.view.Consola" target="ppir2169MV.control.BibliotecaCtrl">
+                  <point x="32.875" y="-114.5" />
+                  <point x="164.375" y="854.0" />
+                  <point x="142.29166666666669" y="854.0" />
+                  <point x="-115.125" y="104.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-124.50000000000017" y="470.8571428571429" />
+              <SelectedNodes>
+                <node>ppir2169MV.control.BibliotecaCtrl</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Fields</Category>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/begin/Start.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="74">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JavaScript-modules-diagram/E:/Paul/vvss/src/main/java">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JavaScript-modules-diagram</ID>
+              <OriginalElement>$PROJECT_DIR$/src/main/java</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>All</Category>
+              </Categories>
+              <VISIBILITY>Details</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -66,17 +255,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/control/BibliotecaCtrl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="731">
+              <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -85,7 +265,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/model/Carte.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
               <folding>
                 <element signature="e#639#640#0" expanded="true" />
                 <element signature="e#663#664#0" expanded="true" />
@@ -97,7 +277,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
+            <state relative-caret-position="1139">
               <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,11 +298,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="459">
               <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-              <folding>
-                <element signature="e#1199#1206#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -148,9 +325,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/begin/Start.java" />
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java" />
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java" />
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/util/Validator.java" />
         <option value="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java" />
       </list>
     </option>
   </component>
@@ -161,9 +338,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="578" />
-    <option name="y" value="-14" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="577" />
+    <option name="y" value="-15" />
     <option name="width" value="1255" />
     <option name="height" value="1040" />
   </component>
@@ -314,15 +491,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554096086515" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554100022894" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../1-ProiectBiblioteca" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -336,7 +514,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest">
+  <component name="RunManager" selected="JUnit.AppTest.TC1_ECP">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ppir2169MV.begin.Start" />
       <module name="vvss" />
@@ -365,6 +543,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppTest.TC1_ECP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="vvss" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ppir2169MV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ppir2169MV" />
+      <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
+      <option name="METHOD_NAME" value="TC1_ECP" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppTest.TC2_BVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="vvss" />
       <extension name="coverage">
@@ -376,22 +570,6 @@
       <option name="PACKAGE_NAME" value="ppir2169MV" />
       <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
       <option name="METHOD_NAME" value="TC2_BVA" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.TC2_ECP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vvss" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ppir2169MV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ppir2169MV" />
-      <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
-      <option name="METHOD_NAME" value="TC2_ECP" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -415,11 +593,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="JUnit.AppTest.TC1_ECP" />
         <item itemvalue="Application.Start" />
+        <item itemvalue="JUnit.AppTest" />
         <item itemvalue="JUnit.AppTest.TC2_BVA" />
         <item itemvalue="JUnit.AppTest.TC4_ECP" />
-        <item itemvalue="JUnit.AppTest.TC2_ECP" />
       </list>
     </recent_temporary>
   </component>
@@ -435,17 +613,12 @@
       <updated>1553354321661</updated>
       <workItem from="1553354325281" duration="3670000" />
       <workItem from="1553360406290" duration="250000" />
-      <workItem from="1554042657218" duration="4023000" />
+      <workItem from="1554042657218" duration="4127000" />
+      <workItem from="1554098975485" duration="1047000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest_TC2_ECP - 2019.04.01 at 08h 10m 05s.xml">
-      <configuration name="AppTest.TC2_ECP" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_TC3_ECP - 2019.04.01 at 08h 11m 59s.xml">
-      <configuration name="AppTest.TC3_ECP" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_TC3_ECP - 2019.04.01 at 08h 12m 10s.xml">
       <configuration name="AppTest.TC3_ECP" configurationId="JUnit" />
     </history-entry>
@@ -470,15 +643,21 @@
     <history-entry file="AppTest - 2019.04.01 at 08h 21m 13s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest - 2019.04.01 at 09h 20m 04s.xml">
+      <configuration name="AppTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AppTest_TC1_ECP - 2019.04.01 at 09h 22m 42s.xml">
+      <configuration name="AppTest.TC1_ECP" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7943000" />
+    <option name="totallyTimeSpent" value="9094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36845636" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25704697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -487,7 +666,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30736545" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5028329" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -499,7 +678,6 @@
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32904148" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3295302" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -509,22 +687,11 @@
       <window_info anchor="right" id="Maven" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -545,54 +712,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoInterfaces/CartiRepoInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-          <folding>
-            <element signature="e#1199#1206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/model/Carte.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#639#640#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/control/BibliotecaCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/util/Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
+        <state relative-caret-position="221">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding>
             <element signature="e#925#926#0" expanded="true" />
@@ -601,24 +730,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/control/BibliotecaCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/model/Carte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoInterfaces/CartiRepoInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/E:/Paul/vvss/src/main/java">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="311.0" y="348.201171875">com</node>
+            <node x="336.0" y="274.201171875">images</node>
+            <node x="0.0" y="274.201171875">netscape</node>
+            <node x="0.0" y="422.201171875">junit</node>
+            <node x="0.0" y="496.201171875">org</node>
+            <node x="0.0" y="200.201171875">ppir2169MV</node>
+            <node x="189.0" y="200.201171875">templates</node>
+            <node x="0.0" y="126.201171875">toolbarButtonGraphics</node>
+            <node x="142.0" y="496.201171875">sun</node>
+            <node x="283.0" y="496.201171875">jdk</node>
+            <node x="366.0" y="200.201171875">META-INF</node>
+            <node x="171.0" y="274.201171875">licenses</node>
+            <node x="244.0" y="126.201171875">groovyjarjarasm</node>
+            <node x="147.0" y="422.201171875">java</node>
+            <node x="0.0" y="348.201171875">groovy</node>
+            <node x="160.0" y="348.201171875">javax</node>
+            <node x="292.0" y="422.201171875">edu</node>
+            <node x="282.0" y="13.451171875">groovyjarjarcommonscli</node>
+            <node x="40.0" y="6.201171875">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+              <point x="-55.666666666666664" y="14.5" />
+              <point x="67.83333333333334" y="55.201171875" />
+              <point x="20.0" y="55.201171875" />
+              <point x="20.0" y="30.367838541666664" />
+              <point x="-83.5" y="9.666666666666666" />
+            </edge>
+            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+              <point x="51.75" y="14.5" />
+              <point x="437.25" y="72.451171875" />
+              <point x="252.0" y="72.451171875" />
+              <point x="252.0" y="20.701171875" />
+              <point x="-103.5" y="-7.25" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-47.0" y="149.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/ppir2169MV.begin.Start">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>ppir2169MV.begin.Start</OriginalElement>
+          <nodes>
+            <node x="514.125" y="621.0">ppir2169MV.repository.repo.CartiRepo</node>
+            <node x="256.25" y="1158.0">ppir2169MV.begin.Start</node>
+            <node x="350.125" y="409.0">ppir2169MV.repository.repoInterfaces.CartiRepoInterface</node>
+            <node x="120.125" y="431.5">ppir2169MV.util.Validator</node>
+            <node x="210.47519841269838" y="0.0">ppir2169MV.model.Carte</node>
+            <node x="841.125" y="632.5">ppir2169MV.repository.repoMock.CartiRepoMock</node>
+            <node x="0.0" y="879.0">ppir2169MV.view.Consola</node>
+            <node x="103.91666666666669" y="621.0">ppir2169MV.control.BibliotecaCtrl</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+              <point x="115.125" y="-104.0" />
+              <point x="372.5416666666667" y="601.0" />
+              <point x="442.225" y="601.0" />
+              <point x="-61.39999999999998" y="81.0" />
+            </edge>
+            <edge source="ppir2169MV.view.Consola" target="ppir2169MV.model.Carte">
+              <point x="-32.875" y="-114.5" />
+              <point x="98.625" y="854.0" />
+              <point x="79.35416666666669" y="854.0" />
+              <point x="79.35416666666669" y="369.0" />
+              <point x="269.5376984126984" y="369.0" />
+              <point x="-98.4375" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.util.Validator">
+              <point x="-38.375" y="-104.0" />
+              <point x="219.04166666666669" y="601.0" />
+              <point x="225.125" y="601.0" />
+              <point x="0.0" y="58.5" />
+            </edge>
+            <edge source="ppir2169MV.repository.repo.CartiRepo" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+              <point x="-76.75" y="-104.0" />
+              <point x="590.875" y="601.0" />
+              <point x="565.025" y="601.0" />
+              <point x="61.39999999999998" y="81.0" />
+            </edge>
+            <edge source="ppir2169MV.repository.repoInterfaces.CartiRepoInterface" target="ppir2169MV.model.Carte">
+              <point x="0.0" y="-81.0" />
+              <point x="503.625" y="389.0" />
+              <point x="387.6626984126984" y="389.0" />
+              <point x="19.6875" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.begin.Start" target="ppir2169MV.view.Consola">
+              <point x="-70.0" y="-25.5" />
+              <point x="270.25" y="1138.0" />
+              <point x="65.75" y="1138.0" />
+              <point x="-65.75" y="114.5" />
+            </edge>
+            <edge source="ppir2169MV.begin.Start" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+              <point x="42.0" y="-25.5" />
+              <point x="382.25" y="1128.0" />
+              <point x="503.625" y="1128.0" />
+              <point x="0.0" y="81.0" />
+            </edge>
+            <edge source="ppir2169MV.repository.repoMock.CartiRepoMock" target="ppir2169MV.model.Carte">
+              <point x="102.33333333333326" y="-92.5" />
+              <point x="1096.9583333333333" y="601.0" />
+              <point x="1038.5029761904761" y="601.0" />
+              <point x="1038.5029761904761" y="359.0" />
+              <point x="505.7876984126984" y="359.0" />
+              <point x="137.8125" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.util.Validator" target="ppir2169MV.model.Carte">
+              <point x="0.0" y="-58.5" />
+              <point x="225.125" y="389.0" />
+              <point x="348.2876984126984" y="389.0" />
+              <point x="-19.6875" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.begin.Start" target="ppir2169MV.control.BibliotecaCtrl">
+              <point x="14.0" y="-25.5" />
+              <point x="354.25" y="1138.0" />
+              <point x="345.75" y="1138.0" />
+              <point x="345.75" y="854.0" />
+              <point x="372.5416666666667" y="854.0" />
+              <point x="115.125" y="104.0" />
+            </edge>
+            <edge source="ppir2169MV.control.BibliotecaCtrl" target="ppir2169MV.model.Carte">
+              <point x="-115.125" y="-104.0" />
+              <point x="142.29166666666669" y="601.0" />
+              <point x="109.625" y="601.0" />
+              <point x="109.625" y="379.0" />
+              <point x="308.9126984126984" y="379.0" />
+              <point x="-59.0625" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.repository.repoMock.CartiRepoMock" target="ppir2169MV.repository.repoInterfaces.CartiRepoInterface">
+              <point x="-102.33333333333326" y="-92.5" />
+              <point x="892.2916666666667" y="601.0" />
+              <point x="626.425" y="601.0" />
+              <point x="122.79999999999995" y="81.0" />
+            </edge>
+            <edge source="ppir2169MV.repository.repo.CartiRepo" target="ppir2169MV.model.Carte">
+              <point x="76.75" y="-104.0" />
+              <point x="744.375" y="379.0" />
+              <point x="427.0376984126984" y="379.0" />
+              <point x="59.0625" y="169.5" />
+            </edge>
+            <edge source="ppir2169MV.begin.Start" target="ppir2169MV.repository.repoMock.CartiRepoMock">
+              <point x="70.0" y="-25.5" />
+              <point x="410.25" y="1138.0" />
+              <point x="994.625" y="1138.0" />
+              <point x="0.0" y="92.5" />
+            </edge>
+            <edge source="ppir2169MV.view.Consola" target="ppir2169MV.control.BibliotecaCtrl">
+              <point x="32.875" y="-114.5" />
+              <point x="164.375" y="854.0" />
+              <point x="142.29166666666669" y="854.0" />
+              <point x="-115.125" y="104.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.7000000000000001" x="-124.50000000000017" y="470.8571428571429" />
+          <SelectedNodes>
+            <node>ppir2169MV.control.BibliotecaCtrl</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="731">
+          <caret line="50" column="4" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/begin/Start.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="74">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -627,8 +991,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        <state relative-caret-position="156">
+          <caret line="62" column="46" selection-start-line="62" selection-start-column="39" selection-end-line="62" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -11,7 +11,7 @@ import java.io.InputStreamReader;
 public class Consola {
 
 	private BufferedReader console;
-	BibliotecaCtrl bc;
+	private BibliotecaCtrl bc;
 	
 	public Consola(BibliotecaCtrl bc){
 		this.bc=bc;
@@ -49,7 +49,7 @@ public class Consola {
 		}
 	}
 	
-	public void printMenu(){
+	private void printMenu(){
 		System.out.println("\n\n\n");
 		System.out.println("Evidenta cartilor dintr-o biblioteca");
 		System.out.println("     1. Adaugarea unei noi carti");
@@ -59,7 +59,7 @@ public class Consola {
 		System.out.println("     0. Exit");
 	}
 	
-	public void adauga(){
+	private void adauga(){
 		Carte c = new Carte();
 		try{
 			System.out.println("\n\n\n");
@@ -101,7 +101,7 @@ public class Consola {
 		}
 	}
 	
-	public void afiseazaToateCartile(){
+	private void afiseazaToateCartile(){
 		System.out.println("\n\n\n");
 		try {
 			for(Carte c:bc.getCarti())
@@ -112,7 +112,7 @@ public class Consola {
 		}
 	}
 
-	public void cautaCartiDupaAutor(){
+	private void cautaCartiDupaAutor(){
 	
 		System.out.println("\n\n\n");
 		System.out.println("Autor:");
@@ -126,7 +126,7 @@ public class Consola {
 		}
 	}
 
-	public void afiseazaCartiOrdonateDinAnul(){
+	private void afiseazaCartiOrdonateDinAnul(){
 		System.out.println("\n\n\n");
 		try{
 			String line;
