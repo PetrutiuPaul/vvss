@@ -1,13 +1,14 @@
 package ppir2169MV;
 
-import static org.junit.Assert.assertTrue;
-import static org.junit.Assert.fail;
-
 import org.junit.Test;
 import ppir2169MV.control.BibliotecaCtrl;
 import ppir2169MV.model.Carte;
 import ppir2169MV.repository.repoInterfaces.CartiRepoInterface;
 import ppir2169MV.repository.repoMock.CartiRepoMock;
+
+import java.util.List;
+
+import static org.junit.Assert.*;
 
 /**
  * Unit test for simple App.
@@ -148,4 +149,31 @@ public class AppTest
                 fail();
         }
     }
+
+    @Test
+    public void TC_WB1()
+    {
+        List<Carte> carti = cr.cautaCarte("");
+
+        assertEquals(6, carti.size());
+    }
+
+
+    @Test
+    public void TC_WB2()
+    {
+        List<Carte> carti = cr.cautaCarte("Mihai");
+
+        assertEquals(1, carti.size());
+    }
+
+
+    @Test
+    public void TC_WB3()
+    {
+        List<Carte> carti = cr.cautaCarte("blablalba");
+
+        assertEquals(0, carti.size());
+    }
+
 }
