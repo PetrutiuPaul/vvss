@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34530d1d-9266-43e5-8fd2-09059fb0263d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DocsBiblioteca/Lab3/Lab03_WBT_TCs_Form.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DocsBiblioteca/Lab3/Lab03_WBT_TCs_Form.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,59 +42,37 @@
     <session id="-703190311">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="86" />
+          <entry key="java" value="556" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="556" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/control/BibliotecaCtrl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/util/Validator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-              <folding>
-                <element signature="e#925#926#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/begin/Start.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,7 +110,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="1054">
               <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -160,10 +137,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
+            <state relative-caret-position="629">
               <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
             </state>
           </provider>
@@ -172,8 +149,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2482">
-              <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
+            <state relative-caret-position="238">
+              <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/BigBangIntegrationTesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/TopDownIntegrationTesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,6 +183,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -206,6 +214,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/view/Consola.java" />
         <option value="$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java" />
         <option value="$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ppir2169MV/BigBangIntegrationTesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ppir2169MV/TopDownIntegrationTesting.java" />
       </list>
     </option>
   </component>
@@ -233,10 +243,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="896" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="895" />
     <option name="y" value="-25" />
-    <option name="width" value="979" />
+    <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -244,6 +254,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,6 +297,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ppir2169MV" type="462c0819:PsiDirectoryNode" />
               <item name="begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ppir2169" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vvss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ppir2169MV" type="462c0819:PsiDirectoryNode" />
+              <item name="control" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ppir2169" type="b2602c69:ProjectViewProjectNode" />
@@ -340,14 +361,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555265516144" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557068702846" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
@@ -364,7 +383,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Whole project">
+  <component name="RunManager" selected="JUnit.TopDownIntegrationTesting">
     <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ppir2169MV.begin.Start" />
       <module name="ppir2169" />
@@ -372,8 +391,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vvss" />
+    <configuration name="AppTest.TC_WB4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2169" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ppir2169MV.*" />
@@ -382,28 +401,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="ppir2169MV" />
       <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppTest.TC2_BVA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vvss" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ppir2169MV.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ppir2169MV" />
-      <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
-      <option name="METHOD_NAME" value="TC2_BVA" />
+      <option name="METHOD_NAME" value="TC_WB4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest.TC4_ECP" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="vvss" />
+    <configuration name="BigBangIntegrationTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2169" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ppir2169MV.*" />
@@ -411,9 +416,21 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ppir2169MV" />
-      <option name="MAIN_CLASS_NAME" value="ppir2169MV.AppTest" />
-      <option name="METHOD_NAME" value="TC4_ECP" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="ppir2169MV.BigBangIntegrationTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopDownIntegrationTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ppir2169" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ppir2169MV.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ppir2169MV" />
+      <option name="MAIN_CLASS_NAME" value="ppir2169MV.TopDownIntegrationTesting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -439,18 +456,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Start" />
-      <item itemvalue="JUnit.AppTest.TC4_ECP" />
-      <item itemvalue="JUnit.AppTest" />
-      <item itemvalue="JUnit.AppTest.TC2_BVA" />
       <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="JUnit.AppTest.TC_WB4" />
+      <item itemvalue="JUnit.BigBangIntegrationTesting" />
+      <item itemvalue="JUnit.TopDownIntegrationTesting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TopDownIntegrationTesting" />
+        <item itemvalue="JUnit.BigBangIntegrationTesting" />
+        <item itemvalue="JUnit.AppTest.TC_WB4" />
         <item itemvalue="JUnit.Whole project" />
         <item itemvalue="Application.Start" />
-        <item itemvalue="JUnit.AppTest" />
-        <item itemvalue="JUnit.AppTest.TC2_BVA" />
-        <item itemvalue="JUnit.AppTest.TC4_ECP" />
       </list>
     </recent_temporary>
   </component>
@@ -470,23 +487,12 @@
       <workItem from="1554098975485" duration="1323000" />
       <workItem from="1555255623918" duration="1711000" />
       <workItem from="1555258925830" duration="2756000" />
-      <workItem from="1556896289195" duration="971000" />
+      <workItem from="1556896289195" duration="1570000" />
+      <workItem from="1557067108107" duration="1587000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest - 2019.04.01 at 08h 21m 13s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest - 2019.04.01 at 09h 20m 04s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_TC1_ECP - 2019.04.01 at 09h 22m 42s.xml">
-      <configuration name="AppTest.TC1_ECP" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_TC1_ECP - 2019.04.14 at 18h 28m 58s.xml">
-      <configuration name="AppTest.TC1_ECP" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AppTest_TC4_ECP - 2019.04.14 at 18h 31m 18s.xml">
       <configuration name="AppTest.TC4_ECP" configurationId="JUnit" />
     </history-entry>
@@ -505,15 +511,27 @@
     <history-entry file="Whole_project - 2019.04.14 at 20h 58m 45s.xml">
       <configuration name="Whole project" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BigBangIntegrationTesting - 2019.05.05 at 17h 59m 07s.xml">
+      <configuration name="BigBangIntegrationTesting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangIntegrationTesting - 2019.05.05 at 17h 59m 20s.xml">
+      <configuration name="BigBangIntegrationTesting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangIntegrationTesting - 2019.05.05 at 17h 59m 35s.xml">
+      <configuration name="BigBangIntegrationTesting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BigBangIntegrationTesting - 2019.05.05 at 17h 59m 54s.xml">
+      <configuration name="BigBangIntegrationTesting" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14808000" />
+    <option name="totallyTimeSpent" value="16994000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26778522" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27181208" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -522,7 +540,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297546" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34184396" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34184396" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,7 +550,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32765958" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32904148" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -809,6 +827,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -823,30 +851,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2482">
-          <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repo/CartiRepo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="70" column="47" selection-start-line="70" selection-start-column="47" selection-end-line="70" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ppir2169MV/repository/repoMock/CartiRepoMock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
+        <state relative-caret-position="629">
           <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/BigBangIntegrationTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ppir2169MV/TopDownIntegrationTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

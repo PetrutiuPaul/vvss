@@ -37,10 +37,11 @@ public class AppTest
             c.adaugaCuvantCheie("sapa");
             c.adaugaCuvantCheie("mort");
 
-            bc.adaugaCarte(c);
+            cr.adaugaCarte(c);
         }catch (Exception ex){
             fail();
         }
+
 
         assertTrue( true );
     }
@@ -175,5 +176,4 @@ public class AppTest
 
         assertEquals(0, carti.size());
     }
-
 }
