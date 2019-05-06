@@ -176,4 +176,59 @@ public class AppTest
 
         assertEquals(0, carti.size());
     }
+
+    @Test
+    public void TestF03Valid()
+    {
+        try {
+
+            Carte c = new Carte();
+            c.setTitlu("aaaaa");
+            c.setAnAparitie("1020");
+            c.adaugaReferent("aaaaa");
+            c.adaugaCuvantCheie("amin");
+
+            cr.adaugaCarte(c);
+
+            Carte c1 = new Carte();
+            c1.setTitlu("bbbbba");
+            c1.setAnAparitie("1020");
+            c1.adaugaReferent("bbbbb");
+            c1.adaugaCuvantCheie("amin");
+
+            cr.adaugaCarte(c1);
+        }catch (Exception ex){
+            fail();
+        }
+
+        assertEquals(2, cr.getCartiOrdonateDinAnul("1020").size());
+        assertEquals(cr.getCartiOrdonateDinAnul("1020").get(0).getTitlu(),"aaaaa");
+    }
+
+    @Test
+    public void TestF03NonValid()
+    {
+        try {
+
+            Carte c = new Carte();
+            c.setTitlu("aaaaa");
+            c.setAnAparitie("1020");
+            c.adaugaReferent("aaaaa");
+            c.adaugaCuvantCheie("amin");
+
+            cr.adaugaCarte(c);
+
+            Carte c1 = new Carte();
+            c1.setTitlu("bbbbba");
+            c1.setAnAparitie("1020");
+            c1.adaugaReferent("bbbbb");
+            c1.adaugaCuvantCheie("amin");
+
+            cr.adaugaCarte(c1);
+        }catch (Exception ex){
+            fail();
+        }
+
+        assertEquals(0, cr.getCartiOrdonateDinAnul("102220").size());
+    }
 }
